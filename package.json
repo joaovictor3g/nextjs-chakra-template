@@ -1,0 +1,26 @@
+{
+  "name": "@joaovictor3g/nc",
+  "main": "template.json",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "next",
+    "next.js",
+    "chakra",
+    "chakra-ui",
+    "template"
+  ],
+  "description": "A full template to start apps with next and chakra ui",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "“joaovictor3g” <jvdias79797@gmail.com>",
+  "license": "MIT"
+}
