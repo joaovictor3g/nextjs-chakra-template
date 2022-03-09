@@ -8,10 +8,10 @@
 
 ```bash
 # with yarn
-yarn create next-app project-name --template @joaovictor3g/nc
+yarn create next-app project-name @joaovictor3g/nc
 
 #with npx
-npx create-next-app project-name --template @joaovictor3g/nc
+npx create-next-app project-name  @joaovictor3g/nc
 ```
 
 ## Techs
