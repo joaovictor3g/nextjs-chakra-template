@@ -2,7 +2,8 @@
 
 ## Project
 
-- This project has proposite to agilize the first steps creating new apps with next e chakra ui.
+- This project has proposite to agilize the first steps creating new apps with next and chakra ui.
+- Cypress setup.
 
 ## How to use?
 
